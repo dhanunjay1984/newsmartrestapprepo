@@ -1,0 +1,8 @@
+{
+  "name": "smartrestaurant",
+  "app_id": "84bad0a2",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
